@@ -1,7 +1,6 @@
-#+TITLE: README
+#+TITLE: voronoi-raylib-lisp
 #+AUTHOR: Amy
 
-* voronoi-raylib-lisp
 Visualization of voronoi diagrams given random points on a plane.
 
 ** Dependencies
