@@ -1,0 +1,12 @@
+#+TITLE: README
+#+AUTHOR: Amy
+
+* voronoi-raylib-lisp
+Visualization of voronoi diagrams given random points on a plane.
+
+** Dependencies
+- Raylib =< 5.0
+- [[https://github.com/longlene/cl-raylib][cl-raylib]]
+
+** Building
+To build, run the src_bash{./build.lisp} file using your prefered common lisp implementation. Personally, I prefer using SBCL, but using it from roswell should work too.
